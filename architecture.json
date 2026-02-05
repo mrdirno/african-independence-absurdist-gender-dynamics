@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-absurdist-gender-dynamics",
+  "title": "The Ministry of Missing Things",
+  "tagline": "In a newborn nation stripped of doorknobs, a woman builds a machine to make sense of the absurd.",
+  "target_words": 70000,
+  "actual_words": 72475,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bureaucracy of Absence",
+    "Gendered Custodianship vs. Performative Power",
+    "Mechanisms as Refuge from Political Farce",
+    "The Inherited Burden of Unfinished Revolutions"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Sundries",
+      "words": 3015
+    },
+    {
+      "ch": 2,
+      "title": "The Tractor Report",
+      "words": 3020
+    },
+    {
+      "ch": 3,
+      "title": "The Keeper of Missing Things",
+      "words": 2980
+    },
+    {
+      "ch": 4,
+      "title": "The Flagpole Pulley",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The German Lens",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "Auntie Precious's Ledger",
+      "words": 3050
+    },
+    {
+      "ch": 7,
+      "title": "The Captain's Code",
+      "words": 3120
+    },
+    {
+      "ch": 8,
+      "title": "Ezekiel's Silent Sums",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Ballroom Cabinet",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "The Typewriter Springs",
+      "words": 2980
+    },
+    {
+      "ch": 11,
+      "title": "The Mistresses' Compounds",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "The Philosophical Violation",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Candid Shot",
+      "words": 3050
+    },
+    {
+      "ch": 14,
+      "title": "The Governor's Pipe Ghost",
+      "words": 3000
+    },
+    {
+      "ch": 15,
+      "title": "The Laterite Road",
+      "words": 3150
+    },
+    {
+      "ch": 16,
+      "title": "The National Gaze",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "The Coiled Potential",
+      "words": 2980
+    },
+    {
+      "ch": 18,
+      "title": "The Fraying Rope",
+      "words": 3020
+    },
+    {
+      "ch": 19,
+      "title": "The Damp Paper Sack",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Skeletal Shelves",
+      "words": 3050
+    },
+    {
+      "ch": 21,
+      "title": "The Unsynced Footsteps",
+      "words": 3120
+    },
+    {
+      "ch": 22,
+      "title": "The Forgotten Artifact",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Mechanism's Click",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The Free Hand",
+      "words": 2990
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character must negotiate for a vital resource (water, medicine, fuel) using only the bureaucratic language of a now-irrelevant colonial manual.",
+      "Compose a monologue from Auntie Precious's perspective as she organizes the first post-independence national holiday, navigating between tradition, political spectacle, and a severe shortage of tablecloths.",
+      "Describe the moment a minor female clerk in the new ministry discovers a hidden room containing something the British didn't take—something utterly mundane yet symbolically explosive.",
+      "Imagine a dialogue between Makeda's machine and the ghost of the colonial surveyor whose theodolite lens she salvaged. What does the machine see that he never could?"
+    ],
+    "technical": [
+      "Build a digital 'Sundries Ledger'—an interactive archive that catalogs not just what was taken, but the functional and philosophical void each missing item left behind, allowing users to draw connections between absences.",
+      "Design a text-based game where the player, as a protocol officer in the new state, must navigate a day of diplomatic visits with a constantly shifting set of broken tools, missing documents, and performative expectations."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ngũgĩ wa Thiong'o",
+      "Franz Kafka",
+      "Ama Ata Aidoo",
+      "Samuel Beckett"
+    ]
+  },
+  "cover_prompt": "A determined woman in a modest 1960s dress meticulously assembles a complex, Rube Goldberg-like machine of polished brass, salvaged wood, and repurposed colonial artifacts within a stark, bureaucratic office, its walls lined with empty filing cabinets and doorframes conspicuously lacking knobs, under the watchful, absurd gaze of a portrait of a pompous official, in the evocative, surrealist style of Wangechi Mutu and the detailed magical realism of Leonora Carrington, book cover framing, centered composition with a slightly low-angle view emphasizing the machine's towering, fragile complexity against the barren office, dramatic chiaroscuro lighting with a single shaft of warm, hopeful light illuminating the machine's core against cool, oppressive shadows of grey and muted olive green, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
