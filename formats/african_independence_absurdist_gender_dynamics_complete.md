@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The first time the British left, they took the doorknobs.
+Kofi’s new ministerial office had three telephones, one for each of his wives. The red one rang. The green one rang. The white one, reserved for state emergencies, remained silent while the women’s voices tangled in the wires, demanding to know who would represent the nation at the Independence Day ball.
+
+
 
 Makeda watched from the veranda, a chipped teacup of bush rum warming her palm, as the last lorry shuddered down the laterite road. It was piled high with the kind of things you wouldn’t think to steal until you were leaving forever: curtain rods, a porcelain sink, three ceiling fans still screwed to a plank of wood, and a wobbling mountain of brass doorknobs that caught the morning sun like a pile of stolen suns. The dust they raised was a slow, taunting curtain, settling over the Governor’s residence—her residence now, apparently—with a fine, red indifference.
 
